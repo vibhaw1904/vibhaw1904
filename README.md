@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibhaw raj</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?size=338&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=ais">
 <p align="left"> <a href="https://twitter.com/_vibhaw_" target="blank"><img src="https://img.shields.io/twitter/follow/_vibhaw_?logo=twitter&style=for-the-badge" alt="_vibhaw_" /></a> </p>
 
