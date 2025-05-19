@@ -35,8 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vibhaw1904&show_icons=true&theme=tokyonight&hide_border=true" alt="Vibhaw's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhaw1904&theme=tokyonight&hide_border=true" alt="Vibhaw's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhaw1904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
 
 ---
